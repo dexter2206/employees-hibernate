@@ -17,7 +17,7 @@ w ogóle o klasie PrefillDB.
 2. Napisać program wypisujący średnią zarobków z każdego z projektów.
 3. Napisać program dodający nowy dział, oraz dwóch nowych pracowników do niego.
 4. Napisać program dodający nowy projekt oraz dodanych w poprzednim punkcie pracowników do tego projektu.
-5. Napisać program pobierający od użytkownika nazwę działu 
+5. Napisać program pobierający od użytkownika nazwę działu i wyświetalający wszystkie projekty, w jakie zaangażowani są jego pracownicy.
 ## Duże zadanie - Library
 Proszę zaprojektować strukturę danych i stworzyć projekt, modelujący bazę danych książek, oraz aplikacje do interagowania z nim.
 Projekt powinien wspierać odczytywanie i dodawanie takich informacji jak tytuły i autorów ksiażek, ich wydawnictwa oraz wydania.
